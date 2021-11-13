@@ -4,4 +4,4 @@ tags={
 	"Gameplay"
 }
 name="Supply Lines 3.1"
-supported_version="3.1.2"
+supported_version="3.1.*"
