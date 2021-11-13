@@ -3,5 +3,5 @@ tags={
 	"Military"
 	"Gameplay"
 }
-name="Supply Lines 3.1"
+name="Interstellar Incorporated: Supply Lines [3.1]"
 supported_version="3.1.*"
